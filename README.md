@@ -40,4 +40,4 @@ This suggests that customer slightly prefer digital payment methods
 * Promote digital payments method since credit card users tend to spend slightly more per order. Encouraging it could increase overall revenue
 * Improve Low Rated Products: Products with lower ratings should be reviewed to identify quality ordesign issues that may affect customer satisfaction
 ## DASHBOARD
-![FRSADASHBOARD](FRSADASHBOARD.png)
+![FrsaDashboard](FrsaDashboard.png)
