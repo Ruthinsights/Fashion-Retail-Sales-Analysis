@@ -19,20 +19,20 @@ Data Cleaning and Preparation was completed in Microsoft Excel to ensure accurac
 * Microsoft Excel (Data Cleaning and Data Exploration)
 * Power BI (Data Analysis and Data Visualization)
 ## Key Insights
-## OVERALL SALES PERFORMANCE##
+## Overall Sales Performance
 * The business generated $502.53K in total sales from approximately 3,000 orders
-## SEASONAL SALES TREND##
+## Seasonal Sales Trend
 * Sales gradually increased from January to May, reaching $52K in May
 * The lowest sales occurred in September($31K)
 * Sales peaked again in December indicating strong seasonal demand during the holiday period
-## TOP PERFORMING PRODUCTS##
+## Top Performing Products
 * Tunics, Pajamas and jeans were among the highest revenue generating items. These products contribute significantly to Overall sales
-## CUSTOMER PAYMENT PREFERENCE##
+## Customer Payment Preference
 * Credit card payments accounted for 53% of transactions, while cash accounted for 47%
 This suggests that customer slightly prefer digital payment methods
-## CUSTOMER SPENDING BEHAVIOUR##
+## Customer Spending Behavior
 * Customers paying with credit card had an average order value of $150.92 compared to cash payments of $144.42
-## PRODUCT RATINGS##
+## Product Ratings
 * Items such as Wallets, Umbrellas and T-shirts received the highest customer ratings indicating strong customer satisfaction with this products
 ## Business Recommendations
 * Increase Inventory for Top selling Items maintaining adequate stock levels can help prevent missed revenue opportunities
@@ -40,4 +40,4 @@ This suggests that customer slightly prefer digital payment methods
 * Promote digital payments method since credit card users tend to spend slightly more per order. Encouraging it could increase overall revenue
 * Improve Low Rated Products: Products with lower ratings should be reviewed to identify quality ordesign issues that may affect customer satisfaction
 ## DASHBOARD
-![DASHBOARD](FRSA DASHBOARD.png)
+![DASHBOARD](FRSADASHBOARD.png)
